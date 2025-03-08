@@ -1,2 +1,2 @@
 # HTMLCourse
-A short HTML course for everyone to become a fullstack web dev available [here](https://yaminox7.github.io/HTMLCourse/).
+A bunch of courses for everyone to become a developper, available [here](https://yaminox7.github.io/DevCourses/).
